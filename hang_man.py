@@ -40,7 +40,7 @@ def play_loop():
         print("Thanks For Playing! We expect you back again!")
         exit()
 
-# Initializing all the conditions required for the game:
+# Defining all the conditions required for the game:
 def hangman():
     global count
     global display
